@@ -1,7 +1,23 @@
-MULTI-PAGE WEBSITE PT. GLOBAL SEJAHTERA ABADA
+MCU GLOBAL SEJAHTERA ABADA — GITHUB WEBSITE V2
 
-Versi ini mempertahankan desain, warna, tipografi, komponen, aset, CTA WhatsApp, dan konsep dari website terakhir; konten dipisahkan menjadi halaman mandiri.
+Pages:
+- index.html
+- tentang-kami.html
+- layanan.html
+- mcu-perusahaan.html
+- pasca-mcu.html
+- lis.html
+- dokumentasi.html
+- kontak.html
 
-Halaman: index.html, tentang-kami.html, layanan.html, mcu-perusahaan.html, pasca-mcu.html, dokumentasi.html, kontak.html
+LIS:
+- lis.html is a public information page.
+- The Login Sistem LIS buttons open the existing authorized LIS portal.
+- Client access is described as permission-based according to the services/pemeriksaan taken.
 
-Upload seluruh isi folder mcu-gsa-website ke Netlify.
+Deployment:
+Upload the contents of this folder to the root of the GitHub repository:
+globalsejahteraabada/medicalcheckup
+
+Do not rename files inside assets.
+The website currently uses relative asset paths.
